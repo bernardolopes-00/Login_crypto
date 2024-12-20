@@ -19,7 +19,9 @@
 - <b>Botão de Login</b> : Um botão estilizado para submeter as informações.
 
 ## 🌐 Acesse a Página
-<p>Caso queira visualizar a página ao vivo, <a href="#">acesse aqui</a>.</p>
 
-## ✍️ Autor
-#### Bernardo
+<img src="./img/mockup.svg" alt="">
+
+<h3>Caso queira visualizar a página ao vivo, <a href="https://login-crypto.netlify.app/">acesse aqui</a>.</h3>
+
+### ✍️ Autor: <a href="https://www.instagram.com/bxl_lopes/">Bernardo Lopes</a>
