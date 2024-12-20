@@ -19,6 +19,7 @@
 - <b>Botão de Login</b> : Um botão estilizado para submeter as informações.
 
 ## 🌐 Acesse a Página
-<p>Caso queira visualizar a página ao vivo,</p>
+<p>Caso queira visualizar a página ao vivo, <a href="#">acesse aqui</a>.</p>
 
-<a href="github.com">link</a>
+## ✍️ Autor
+#### Bernardo
